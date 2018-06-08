@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "kong-plugin-jwt-up"
-version = "1.5-0"
+version = "1.6-0"
 supported_platforms = {"linux", "macosx"}
 -- LuaDist source
 source = {
-  tag = "1.5-0",
+  tag = "1.6-0",
   url = "git://github.com/LuaDist-testing/kong-plugin-jwt-up.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/Trust1Team/kong-plugin-jwt-up",
---   tag = "1.5.0"
+--   tag = "1.6.0"
 -- }
 description = {
   summary = "The Kong JWT-Upstream plugin.",
